@@ -21,6 +21,7 @@ public class Main {
         double radius = scanner.nextDouble();
         System.out.println("area of circle: " + area(radius));
 
+
     }
 
     public static boolean shouldWakeUp(boolean isBarking, int clock) {
